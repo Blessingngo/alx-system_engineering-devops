@@ -26,13 +26,18 @@ Load balancer settings were adjusted to distribute traffic evenly across email q
 
 <h2>Corrective and Preventative Measures</h2>
   Implement auto-scaling mechanisms to dynamically adjust server resources based on traffic patterns.
+  
   Enhance monitoring and alerting systems to provide real-time visibility into queue processing performance.
+  
   Conduct regular capacity planning exercises to anticipate and mitigate potential traffic spikes.
   
 <h2>Tasks</h2>
   Update load balancer configurations to optimise traffic distribution and minimise queue congestion.
+  
   Review email delivery pipeline architecture for scalability and resilience improvements.
+  
   Develop and document incident response procedures for handling similar email service outages.
+  
   Conduct a post-incident review to identify any underlying system vulnerabilities or design flaws contributing to the outage.
 
 <h2>Conclusion</h2>
